@@ -1,2 +1,2 @@
-# samle
+# sample
 sample
